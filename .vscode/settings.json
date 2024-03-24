@@ -1,0 +1,5 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "gitHistory.alwaysPromptRepositoryPicker": true,
+    "gitHistory.includeRemoteBranches": true
+}
